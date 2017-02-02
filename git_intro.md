@@ -67,7 +67,6 @@ git config --global hub.protocol git
 ## Books
 
   * [git book](https://git-scm.com)
-  * [Pro git](https://gitbookio.gitbooks.io/progit/content/en/)
 
 ## Tasks
 
