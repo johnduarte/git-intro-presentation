@@ -78,3 +78,4 @@ git config --global hub.protocol git
 
   * [RyPress](http://rypress.com/tutorials/git/index)
   * [Interactive cheatsheet](http://ndpsoftware.com/git-cheatsheet.html)
+  * [git for ages 4 and up](https://www.youtube.com/watch?v=3m7BgIvC-uQ)
